@@ -12,3 +12,6 @@ This project on Airline Management System is the automation of registration proc
 
 # After installing all the above applications open your Netbeans IDE. Click on New file then you will have options from which you have to create project. So Click on 'Java with Ant' and then Java Applications. Then click on next, name your apllication as AirlineManagementSystem then click on finish . Now you are ready to build your project . Create different java classes as mentioned in the src/airlinemanagemensystem folder. follow them to built your project.
 
+ # Now go to libraries on Netbeans right click on it then click on Add jar/folder and then add mysql-connector-java-8.0.28.jar , rs2xml.jar , jcalendar-tz-1.3.3-4.jar file.
+
+ # Also for Database queries open your mysql workbench and then create a database airlinemanagementsystem and then use the queries mention the file name to create the database.
