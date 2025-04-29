@@ -14,4 +14,4 @@ This project on Airline Management System is the automation of registration proc
 
  # Now go to libraries on Netbeans right click on it then click on Add jar/folder and then add mysql-connector-java-8.0.28.jar , rs2xml.jar , jcalendar-tz-1.3.3-4.jar file.
 
- # Also for Database queries open your mysql workbench and then create a database airlinemanagementsystem and then use the queries mention the file name to create the database.
+ # Also for Database queries open your mysql workbench and then create a database airlinemanagementsystem and then use the queries mention the file name (Database.txt) to create the database.
